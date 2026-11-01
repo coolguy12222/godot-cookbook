@@ -1,0 +1,6 @@
+{
+  "name": "gdscript-cookbook",
+  "private": true,
+  "type": "module",
+  "dependencies": { "@vercel/blob": "^2.6.0" }
+}
